@@ -1,4 +1,4 @@
-# pelican-hyde
+# pelican--multi-hyde
 
 The pelican-hyde is a [Pelican](https://github.com/getpelican) theme inspired on the beautiful [Hyde](http://hyde.getpoole.com/) Jekyll theme
 
